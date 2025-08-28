@@ -14,16 +14,6 @@
 
 ---
 
-### 🌐 Connect with me
-
-<p align="center">
-<a href="https://instagram.com/mad_vetal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" style="color:#ff4d6d;"/>
-</a>
-</p>
-
----
-
 ### 🛠 Languages and Tools
 
 <p align="center"> 
