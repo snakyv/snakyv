@@ -6,7 +6,7 @@
 
 ### Python Developer · Backend Development · Automation
 
-I build practical, maintainable and well-structured software solutions with a focus on Python, backend logic, automation and database-driven applications.
+I build practical, maintainable and well-structured software solutions with a focus on Python, backend logic, automation, databases and application development.
 
 <p>
   <a href="mailto:v03032006@gmail.com">
@@ -27,11 +27,11 @@ I build practical, maintainable and well-structured software solutions with a fo
 
 ## About Me
 
-I am a **Python Developer** focused on backend development, automation, databases and application logic.
+I am a **Python Developer** focused on backend development, automation, databases and practical software solutions.
 
-My main goal is to build software that is easy to understand, maintain and improve. I work with Python-based technologies, backend architecture, database operations, automation scripts and practical application development.
+My main goal is to build software that is easy to understand, maintain and improve. I work with Python-based technologies, backend architecture, database operations, automation scripts, desktop applications and web development.
 
-I also have experience with **C++**, **C#**, **Java**, **Android development**, **Firebase**, **PySide6**, **Flask**, **SQL databases** and UI design. This background helps me understand software projects from different technical perspectives and build more complete solutions.
+I also have experience with **JavaScript**, **TypeScript**, **React**, **Node.js**, **NestJS**, **C++**, **C#**, **Java**, **Kotlin**, **Android development**, **Firebase**, **PySide6**, **Flask**, **Django**, **FastAPI** and SQL databases. This background helps me understand software projects from different technical perspectives and build more complete solutions.
 
 ---
 
@@ -40,8 +40,9 @@ I also have experience with **C++**, **C#**, **Java**, **Android development**, 
 - Backend development with Python
 - Automation scripts and practical tools
 - Database design and data processing
-- Flask-based web applications
+- Flask, Django and FastAPI applications
 - Desktop applications with PySide6 / Qt
+- Full-stack and frontend projects with React
 - Clean code, debugging and refactoring
 - Building maintainable project structures
 
@@ -53,13 +54,19 @@ I also have experience with **C++**, **C#**, **Java**, **Android development**, 
 
 ### Core Technologies
 
-<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,git,github,pycharm,vscode" alt="Core technologies"/>
+<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,git,github,pycharm,vscode" alt="Core technologies"/>
+
+<br><br>
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,nestjs,html,css" alt="Web and backend technologies"/>
 
 <br><br>
 
 ### Additional Technologies
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,androidstudio,firebase,html,css,js,nodejs,figma,qt" alt="Additional technologies"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,androidstudio,firebase,qt,figma" alt="Additional technologies"/>
 
 </div>
 
@@ -69,12 +76,35 @@ I also have experience with **C++**, **C#**, **Java**, **Android development**, 
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [**Seabattle-SFML**](https://github.com/snakyv/Seabattle-SFML) | Course project: a computer game **Sea Battle** developed in C++ using SFML. | C++, SFML |
-| [**Wordlearner**](https://github.com/snakyv/Wordlearner) | Application for learning foreign words with a modern Qt-based GUI, quizzes, progress tracking, import/export and detailed statistics. | Python, PySide6, Qt |
-| [**Rail-Booking-System**](https://github.com/snakyv/Rail-Booking-System) | Train ticket booking system with graphical seat selection, PDF ticket generation, QR codes, user profiles, route administration and reviews. | Python |
+| [**finance_manager**](https://github.com/snakyv/finance_manager) | Finance management project focused on tracking and organizing financial data. | Python |
 | [**flask-shop-platform**](https://github.com/snakyv/flask-shop-platform) | Flask-based e-commerce application with product catalog, cart, orders and user accounts. | Flask, HTML, CSS |
-| [**EnergyConsumption-project**](https://github.com/snakyv/EnergyConsumption-project) | Application for monitoring and analyzing energy consumption in residential and commercial buildings. | C# |
+| [**django-todo-app**](https://github.com/snakyv/django-todo-app) | Multi-user todo application with registration, login and personal task management. | Python, Django |
+| [**Rail-Booking-System**](https://github.com/snakyv/Rail-Booking-System) | Train ticket booking system with seat selection, PDF ticket generation, QR codes, user profiles, route administration and reviews. | Python |
+| [**Wordlearner**](https://github.com/snakyv/Wordlearner) | Application for learning foreign words with a modern Qt-based GUI, quizzes, progress tracking, import/export and detailed statistics. | Python, PySide6, Qt |
 | [**reyestr_scarper**](https://github.com/snakyv/reyestr_scarper) | Python-based data scraping and processing utility. | Python |
+
+---
+
+## Web, Frontend & Full-Stack Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**smart-city-air-monitor**](https://github.com/snakyv/smart-city-air-monitor) | Full-stack air quality monitoring dashboard for smart cities. | React, Vite, Node.js, Express |
+| [**react-uml-editor**](https://github.com/snakyv/react-uml-editor) | Interactive UML diagram editor with drag-and-drop elements, diagram connections, autosave and session restore. | React, Redux |
+| [**react-bug-tracker**](https://github.com/snakyv/react-bug-tracker) | Single-page bug tracking application with bug creation, filtering, status management and local persistence. | React, JavaScript |
+| [**nestjs-rocket-start**](https://github.com/snakyv/nestjs-rocket-start) | Opinionated NestJS starter for building REST APIs with TypeScript, MongoDB and backend best practices. | TypeScript, NestJS, MongoDB |
+
+---
+
+## Course & Software Engineering Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Seabattle-SFML**](https://github.com/snakyv/Seabattle-SFML) | Course project: a computer game **Sea Battle** developed in C++ using SFML. | C++, SFML |
+| [**EnergyConsumption-project**](https://github.com/snakyv/EnergyConsumption-project) | Application for monitoring and analyzing energy consumption in residential and commercial buildings. | C# |
+| [**TripPlanner_Coursework**](https://github.com/snakyv/TripPlanner_Coursework) | Educational desktop tool for trip planning and software interface prototyping. | Python |
+| [**MultiAlgorithmTextClustering**](https://github.com/snakyv/MultiAlgorithmTextClustering) | Modular text clustering project using multiple algorithmic approaches. | Python |
+| [**order-system**](https://github.com/snakyv/order-system) | Java-based order system project. | Java |
 
 ---
 
@@ -84,7 +114,7 @@ I also have experience with **C++**, **C#**, **Java**, **Android development**, 
   <tr>
     <td width="33%" align="center">
       <h3>Backend</h3>
-      <p>Application logic, routing, database interaction, user accounts and server-side features.</p>
+      <p>Application logic, REST APIs, database interaction, user accounts and server-side features.</p>
     </td>
     <td width="33%" align="center">
       <h3>Automation</h3>
@@ -153,23 +183,25 @@ My development approach:
 
 ## GitHub Overview
 
-Most of my public repositories are focused on Python applications, automation tools, desktop software, backend logic and educational projects.
+My public repositories cover several main areas:
 
-My pinned repositories show the main areas of my work:
-
-- Python desktop applications;
-- backend and Flask-based web platforms;
-- automation and scraping utilities;
+- Python backend and desktop applications;
+- Flask and Django web applications;
+- React and full-stack JavaScript projects;
+- automation and data processing utilities;
 - database-driven applications;
-- C++, C# and software engineering course projects.
+- C++, C# and Java software engineering projects.
+
+Private repositories are not listed here because they are not accessible to public profile visitors.
 
 ---
 
 ## Currently Improving
 
 - Python backend development
-- Flask and FastAPI application structure
+- Flask, Django and FastAPI application structure
 - SQL databases and data validation
+- React and full-stack application architecture
 - Automation and scraping tools
 - Testing, debugging and refactoring
 - Clean architecture for small and medium projects
