@@ -1,29 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF4D6D&height=140&section=header&text=Vitalii&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:FF4D6D&amp;height=140&amp;section=header&amp;text=Vitalii&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35" alt="Header banner"/>
 
-<h1>Hi, I'm Vitalii 👋</h1>
+# Hi, I'm Vitalii 👋
 
-<h3>Python Developer · Backend Development · Automation</h3>
+### Python Developer · Backend Development · Automation
 
-<p>
-  I build clean, practical and maintainable software solutions with a focus on Python, backend logic and automation.
-</p>
+I build practical, maintainable and well-structured software solutions with a focus on Python, backend logic, automation and database-driven applications.
 
 <p>
   <a href="mailto:v03032006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-v03032006%40gmail.com-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-v03032006%40gmail.com-FF4D6D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/snakyv">
-    <img src="https://img.shields.io/badge/GitHub-snakyv-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-snakyv-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/mad_vetal/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-mad__vetal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/mad_vetal/">
+    <img src="https://img.shields.io/badge/Instagram-mad__vetal-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=snakyv&style=for-the-badge&color=FF4D6D" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=snakyv&amp;style=for-the-badge&amp;color=FF4D6D" alt="Profile views"/>
 </p>
-
-<img src="https://readme-typing-svg.herokuapp.com?color=FF4D6D&size=22&center=true&vCenter=true&width=750&lines=Python+Developer;Backend+Development+%26+Automation;Databases+%26+Application+Logic;Clean+Code+%26+Practical+Solutions;Always+Learning%2C+Always+Improving" alt="Typing SVG"/>
 
 </div>
 
@@ -31,62 +27,23 @@
 
 ## About Me
 
-I am a **Python Developer** focused on building reliable, readable and maintainable software.
+I am a **Python Developer** focused on backend development, automation, databases and application logic.
 
-My main area of specialization is **Python development**, including backend logic, automation, data processing, database work and application structure. I value clean architecture, practical problem-solving and code that is easy to understand, test and improve.
+My main goal is to build software that is easy to understand, maintain and improve. I work with Python-based technologies, backend architecture, database operations, automation scripts and practical application development.
 
-I also have experience with **Android development**, **Java**, **C++**, **Firebase**, databases and UI design. This background helps me understand software projects from different technical perspectives.
-
----
-
-## What I Focus On
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Python Development</h3>
-      <p>Backend logic, automation scripts, data processing and application structure.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Databases</h3>
-      <p>Working with structured data, SQL databases, Firebase and data validation.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Software Quality</h3>
-      <p>Clean code, readable structure, debugging, refactoring and maintainability.</p>
-    </td>
-  </tr>
-</table>
+I also have experience with **C++**, **C#**, **Java**, **Android development**, **Firebase**, **PySide6**, **Flask**, **SQL databases** and UI design. This background helps me understand software projects from different technical perspectives and build more complete solutions.
 
 ---
 
-## Technical Profile
+## Main Focus
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Vitalii"
-        self.role = "Python Developer"
-
-        self.main_focus = [
-            "Python Development",
-            "Backend Logic",
-            "Automation",
-            "Databases",
-            "Clean Code"
-        ]
-
-        self.additional_experience = [
-            "Android Development",
-            "Java",
-            "C++",
-            "Firebase",
-            "UI Design"
-        ]
-
-    def goal(self):
-        return "Build useful, clean and scalable software solutions."
-```
+- Backend development with Python
+- Automation scripts and practical tools
+- Database design and data processing
+- Flask-based web applications
+- Desktop applications with PySide6 / Qt
+- Clean code, debugging and refactoring
+- Building maintainable project structures
 
 ---
 
@@ -94,28 +51,67 @@ class Developer:
 
 <div align="center">
 
-### Main Stack
+### Core Technologies
 
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,sqlite,mysql,postgres,git,github,pycharm,vscode" alt="Main Stack"/>
+<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,git,github,pycharm,vscode" alt="Core technologies"/>
 
 <br><br>
 
 ### Additional Technologies
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,cpp,cs,html,css,js,nodejs,figma,qt" alt="Additional Technologies"/>
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,androidstudio,firebase,html,css,js,nodejs,figma,qt" alt="Additional technologies"/>
 
 </div>
 
 ---
 
+## Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [**Seabattle-SFML**](https://github.com/snakyv/Seabattle-SFML) | Course project: a computer game **Sea Battle** developed in C++ using SFML. | C++, SFML |
+| [**Wordlearner**](https://github.com/snakyv/Wordlearner) | Application for learning foreign words with a modern Qt-based GUI, quizzes, progress tracking, import/export and detailed statistics. | Python, PySide6, Qt |
+| [**Rail-Booking-System**](https://github.com/snakyv/Rail-Booking-System) | Train ticket booking system with graphical seat selection, PDF ticket generation, QR codes, user profiles, route administration and reviews. | Python |
+| [**flask-shop-platform**](https://github.com/snakyv/flask-shop-platform) | Flask-based e-commerce application with product catalog, cart, orders and user accounts. | Flask, HTML, CSS |
+| [**EnergyConsumption-project**](https://github.com/snakyv/EnergyConsumption-project) | Application for monitoring and analyzing energy consumption in residential and commercial buildings. | C# |
+| [**reyestr_scarper**](https://github.com/snakyv/reyestr_scarper) | Python-based data scraping and processing utility. | Python |
+
+---
+
+## Project Areas
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>Backend</h3>
+      <p>Application logic, routing, database interaction, user accounts and server-side features.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Automation</h3>
+      <p>Scripts, data processing tools, scraping utilities and repetitive task automation.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>Applications</h3>
+      <p>Desktop, web and educational projects with practical functionality and structured code.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## How I Build Software
 
-- Write clean and understandable code
-- Keep project structure simple and maintainable
-- Focus on practical solutions, not unnecessary complexity
-- Work with databases and structured data carefully
-- Improve existing code through debugging and refactoring
-- Learn better approaches to backend development and software architecture
+I focus on writing code that is practical, readable and maintainable.
+
+My development approach:
+
+- keep project structure clear and logical;
+- separate business logic from interface code;
+- work carefully with databases and user data;
+- avoid unnecessary complexity;
+- debug and refactor existing code;
+- build features that solve real tasks;
+- improve code quality step by step.
 
 ---
 
@@ -123,39 +119,60 @@ class Developer:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=snakyv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D6D&icon_color=FF4D6D&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snakyv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4D6D&text_color=FFFFFF" alt="Top Languages"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakyv&amp;theme=radical" alt="GitHub profile details"/>
 
 <br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=snakyv&theme=radical&hide_border=true&background=0D1117&ring=FF4D6D&fire=FF4D6D&currStreakLabel=FF4D6D&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakyv&amp;theme=radical" alt="Repositories per language"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakyv&amp;theme=radical" alt="Most used languages by commits"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakyv&amp;theme=radical" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakyv&amp;theme=radical&amp;utcOffset=3" alt="Productive time"/>
 
 </div>
 
 ---
 
-## Activity
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snakyv&bg_color=0D1117&color=FFFFFF&line=FF4D6D&point=FF4D6D&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=snakyv&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D6D&amp;fire=FF4D6D&amp;currStreakLabel=FF4D6D&amp;sideLabels=FFFFFF&amp;dates=FFFFFF" alt="GitHub streak"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snakyv&amp;bg_color=0D1117&amp;color=FFFFFF&amp;line=FF4D6D&amp;point=FF4D6D&amp;area=true&amp;hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
 ---
 
-## Projects
+## GitHub Overview
 
-You can explore my repositories here:
+Most of my public repositories are focused on Python applications, automation tools, desktop software, backend logic and educational projects.
 
-<div align="center">
+My pinned repositories show the main areas of my work:
 
-<a href="https://github.com/snakyv?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20Repositories-GitHub-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/>
-</a>
+- Python desktop applications;
+- backend and Flask-based web platforms;
+- automation and scraping utilities;
+- database-driven applications;
+- C++, C# and software engineering course projects.
 
-</div>
+---
+
+## Currently Improving
+
+- Python backend development
+- Flask and FastAPI application structure
+- SQL databases and data validation
+- Automation and scraping tools
+- Testing, debugging and refactoring
+- Clean architecture for small and medium projects
 
 ---
 
@@ -163,16 +180,16 @@ You can explore my repositories here:
 
 <div align="center">
 
+For collaboration, project discussions or professional contact:
+
+<br><br>
+
 <a href="mailto:v03032006@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-v03032006%40gmail.com-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Contact%20Me-v03032006%40gmail.com-FF4D6D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/snakyv">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-
-<a href="https://www.instagram.com/mad_vetal/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-mad__vetal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/>
 </a>
 
 </div>
@@ -181,8 +198,8 @@ You can explore my repositories here:
 
 <div align="center">
 
-<h3>Clean code. Practical solutions. Continuous improvement.</h3>
+### Clean code. Practical backend. Reliable software.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,100:0D1117&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF4D6D,100:0D1117&amp;height=100&amp;section=footer" alt="Footer banner"/>
 
 </div>
