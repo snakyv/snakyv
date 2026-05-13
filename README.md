@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:FF4D6D&amp;height=140&amp;section=header&amp;text=Vitalii&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35" alt="Header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2B1D16,100:C08457&amp;height=140&amp;section=header&amp;text=Vitalii&amp;fontSize=42&amp;fontColor=F5EDE3&amp;animation=fadeIn&amp;fontAlignY=35" alt="Header banner"/>
 
 # Hi, I'm Vitalii 👋
 
@@ -10,15 +10,15 @@ I build practical, maintainable and well-structured software solutions with a fo
 
 <p>
   <a href="mailto:v03032006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-v03032006%40gmail.com-FF4D6D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-v03032006%40gmail.com-8B5E3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/snakyv">
-    <img src="https://img.shields.io/badge/GitHub-snakyv-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-snakyv-2B1D16?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.instagram.com/mad_vetal/">
-    <img src="https://img.shields.io/badge/Instagram-mad__vetal-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-mad__vetal-C08457?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=snakyv&amp;style=for-the-badge&amp;color=FF4D6D" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=snakyv&amp;style=for-the-badge&amp;color=8B5E3C" alt="Profile views"/>
 </p>
 
 </div>
@@ -149,19 +149,19 @@ My development approach:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakyv&amp;theme=radical" alt="GitHub profile details"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakyv&amp;theme=github_dark" alt="GitHub profile details"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakyv&amp;theme=radical" alt="Repositories per language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakyv&amp;theme=github_dark" alt="Repositories per language"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakyv&amp;theme=radical" alt="Most used languages by commits"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakyv&amp;theme=github_dark" alt="Most used languages by commits"/>
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakyv&amp;theme=radical" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakyv&amp;theme=github_dark" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakyv&amp;theme=radical&amp;utcOffset=3" alt="Productive time"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakyv&amp;theme=github_dark&amp;utcOffset=3" alt="Productive time"/>
 
 </div>
 
@@ -171,11 +171,11 @@ My development approach:
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=snakyv&amp;theme=radical&amp;hide_border=true&amp;background=0D1117&amp;ring=FF4D6D&amp;fire=FF4D6D&amp;currStreakLabel=FF4D6D&amp;sideLabels=FFFFFF&amp;dates=FFFFFF" alt="GitHub streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=snakyv&amp;theme=dark&amp;hide_border=true&amp;background=2B1D16&amp;stroke=5C4033&amp;ring=C08457&amp;fire=E0A96D&amp;currStreakLabel=C08457&amp;sideLabels=F5EDE3&amp;dates=D6C6B8" alt="GitHub streak"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snakyv&amp;bg_color=0D1117&amp;color=FFFFFF&amp;line=FF4D6D&amp;point=FF4D6D&amp;area=true&amp;hide_border=true" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=snakyv&amp;bg_color=2B1D16&amp;color=F5EDE3&amp;line=C08457&amp;point=E0A96D&amp;area=true&amp;hide_border=true" alt="GitHub activity graph"/>
 
 </div>
 
@@ -215,11 +215,11 @@ For collaboration, project discussions or professional contact:
 <br><br>
 
 <a href="mailto:v03032006@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-v03032006%40gmail.com-FF4D6D?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Contact%20Me-v03032006%40gmail.com-8B5E3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/snakyv">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-Profile-2B1D16?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/>
 </a>
 
 </div>
@@ -230,6 +230,6 @@ For collaboration, project discussions or professional contact:
 
 ### Clean code. Practical backend. Reliable software.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF4D6D,100:0D1117&amp;height=100&amp;section=footer" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C08457,100:2B1D16&amp;height=100&amp;section=footer" alt="Footer banner"/>
 
 </div>
