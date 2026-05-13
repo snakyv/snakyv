@@ -192,8 +192,6 @@ My public repositories cover several main areas:
 - database-driven applications;
 - C++, C# and Java software engineering projects.
 
-Private repositories are not listed here because they are not accessible to public profile visitors.
-
 ---
 
 ## Currently Improving
