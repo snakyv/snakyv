@@ -1,24 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2B1D16,100:C08457&amp;height=140&amp;section=header&amp;text=Vitalii&amp;fontSize=42&amp;fontColor=F5EDE3&amp;animation=fadeIn&amp;fontAlignY=35" alt="Header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D16,45:5C4033,100:C08457&height=190&section=header&text=Vitalii&fontSize=48&fontColor=F5EDE3&animation=fadeIn&fontAlignY=34&desc=Python%20Developer%20%C2%B7%20Backend%20%C2%B7%20Automation%20%C2%B7%20AI%20Systems&descAlignY=56&descSize=18" alt="Vitalii — Python Developer"/>
 
-# Hi, I'm Vitalii 👋
+### Python Developer focused on backend, automation and AI-assisted systems
 
-### Python Developer · Backend Development · Automation
-
-I build practical, maintainable and well-structured software solutions with a focus on Python, backend logic, automation, databases and application development.
+I build maintainable Python software around **APIs, data, automation, asynchronous workflows and production tooling**.
 
 <p>
-  <a href="mailto:v03032006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-v03032006%40gmail.com-8B5E3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/snakyv">
-    <img src="https://img.shields.io/badge/GitHub-snakyv-2B1D16?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-snakyv-2B1D16?style=for-the-badge&logo=github&logoColor=F5EDE3" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/mad_vetal/">
-    <img src="https://img.shields.io/badge/Instagram-mad__vetal-C08457?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/vitalii-zadorozhniy">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=F5EDE3" alt="LinkedIn"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=snakyv&amp;style=for-the-badge&amp;color=8B5E3C" alt="Profile views"/>
+  <a href="mailto:v03032006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-C08457?style=for-the-badge&logo=gmail&logoColor=2B1D16" alt="Email"/>
+  </a>
 </p>
 
 </div>
@@ -27,143 +24,242 @@ I build practical, maintainable and well-structured software solutions with a fo
 
 ## About Me
 
-I am a **Python Developer** focused on backend development, automation, databases and practical software solutions.
+I am a **Python Developer** focused on backend development, automation, data processing and AI-assisted applications.
 
-My main goal is to build software that is easy to understand, maintain and improve. I work with Python-based technologies, backend architecture, database operations, automation scripts, desktop applications and web development.
+My main stack is centered around **Python, FastAPI, PostgreSQL, SQLAlchemy, Pydantic and Docker**. I enjoy taking a feature from incomplete requirements to a working result: defining the data flow, designing the service, handling failure cases, adding validation and tests, and making the project reproducible for another developer.
 
-I also have experience with **JavaScript**, **TypeScript**, **React**, **Node.js**, **NestJS**, **C++**, **C#**, **Java**, **Kotlin**, **Android development**, **Firebase**, **PySide6**, **Flask**, **Django**, **FastAPI** and SQL databases. This background helps me understand software projects from different technical perspectives and build more complete solutions.
+I am especially interested in:
 
----
-
-## Main Focus
-
-- Backend development with Python
-- Automation scripts and practical tools
-- Database design and data processing
-- Flask, Django and FastAPI applications
-- Desktop applications with PySide6 / Qt
-- Full-stack and frontend projects with React
-- Clean code, debugging and refactoring
-- Building maintainable project structures
+- backend APIs and service architecture;
+- asynchronous Python and concurrent workflows;
+- PostgreSQL, SQL and data modeling;
+- browser automation, scraping and external integrations;
+- speech-to-text and AI-assisted pipelines;
+- testing, observability and reliable failure handling;
+- Dockerized development and CI/CD.
 
 ---
 
-## Tech Stack
+## Core Python Stack
 
 <div align="center">
 
-### Core Technologies
-
-<img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,sqlite,mysql,postgres,mongodb,git,github,pycharm,vscode" alt="Core technologies"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,sqlite,docker,git,github&theme=dark&perline=9" alt="Core Python stack"/>
 
 <br><br>
 
-### Web & Backend
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,nestjs,html,css" alt="Web and backend technologies"/>
-
-<br><br>
-
-### Additional Technologies
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,androidstudio,firebase,qt,figma" alt="Additional technologies"/>
+<img src="https://img.shields.io/badge/FastAPI-2B1D16?style=flat-square&logo=fastapi&logoColor=C08457" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-2B1D16?style=flat-square&logo=python&logoColor=E0A96D" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/Pydantic-2B1D16?style=flat-square&logo=pydantic&logoColor=C08457" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/aiohttp-2B1D16?style=flat-square&logo=python&logoColor=E0A96D" alt="aiohttp"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-2B1D16?style=flat-square&logo=python&logoColor=C08457" alt="BeautifulSoup"/>
+<img src="https://img.shields.io/badge/Playwright-2B1D16?style=flat-square&logo=playwright&logoColor=E0A96D" alt="Playwright"/>
+<img src="https://img.shields.io/badge/pytest-2B1D16?style=flat-square&logo=pytest&logoColor=C08457" alt="pytest"/>
+<img src="https://img.shields.io/badge/Alembic-2B1D16?style=flat-square&logo=python&logoColor=E0A96D" alt="Alembic"/>
 
 </div>
+
+---
+
+## Backend, Automation & AI
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
+
+- FastAPI
+- Django
+- Flask
+- REST APIs
+- Pydantic
+- SQLAlchemy
+- PostgreSQL
+- SQLite
+
+</td>
+<td width="33%" valign="top">
+
+### Automation & Data
+
+- Playwright
+- Selenium
+- BeautifulSoup
+- Requests / aiohttp
+- data extraction
+- data normalization
+- Telegram Bot API
+- scheduled workflows
+
+</td>
+<td width="33%" valign="top">
+
+### AI & Reliability
+
+- OpenAI API
+- Faster-Whisper
+- pyannote.audio
+- FFmpeg
+- pytest
+- Prometheus
+- Sentry
+- retry / fallback strategies
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [**finance_manager**](https://github.com/snakyv/finance_manager) | Finance management project focused on tracking and organizing financial data. | Python |
-| [**flask-shop-platform**](https://github.com/snakyv/flask-shop-platform) | Flask-based e-commerce application with product catalog, cart, orders and user accounts. | Flask, HTML, CSS |
-| [**django-todo-app**](https://github.com/snakyv/django-todo-app) | Multi-user todo application with registration, login and personal task management. | Python, Django |
-| [**Rail-Booking-System**](https://github.com/snakyv/Rail-Booking-System) | Train ticket booking system with seat selection, PDF ticket generation, QR codes, user profiles, route administration and reviews. | Python |
-| [**Wordlearner**](https://github.com/snakyv/Wordlearner) | Application for learning foreign words with a modern Qt-based GUI, quizzes, progress tracking, import/export and detailed statistics. | Python, PySide6, Qt |
-| [**reyestr_scarper**](https://github.com/snakyv/reyestr_scarper) | Python-based data scraping and processing utility. | Python |
-
----
-
-## Web, Frontend & Full-Stack Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [**smart-city-air-monitor**](https://github.com/snakyv/smart-city-air-monitor) | Full-stack air quality monitoring dashboard for smart cities. | React, Vite, Node.js, Express |
-| [**react-uml-editor**](https://github.com/snakyv/react-uml-editor) | Interactive UML diagram editor with drag-and-drop elements, diagram connections, autosave and session restore. | React, Redux |
-| [**react-bug-tracker**](https://github.com/snakyv/react-bug-tracker) | Single-page bug tracking application with bug creation, filtering, status management and local persistence. | React, JavaScript |
-| [**nestjs-rocket-start**](https://github.com/snakyv/nestjs-rocket-start) | Opinionated NestJS starter for building REST APIs with TypeScript, MongoDB and backend best practices. | TypeScript, NestJS, MongoDB |
-
----
-
-## Course & Software Engineering Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| [**Seabattle-SFML**](https://github.com/snakyv/Seabattle-SFML) | Course project: a computer game **Sea Battle** developed in C++ using SFML. | C++, SFML |
-| [**EnergyConsumption-project**](https://github.com/snakyv/EnergyConsumption-project) | Application for monitoring and analyzing energy consumption in residential and commercial buildings. | C# |
-| [**TripPlanner_Coursework**](https://github.com/snakyv/TripPlanner_Coursework) | Educational desktop tool for trip planning and software interface prototyping. | Python |
-| [**MultiAlgorithmTextClustering**](https://github.com/snakyv/MultiAlgorithmTextClustering) | Modular text clustering project using multiple algorithmic approaches. | Python |
-| [**order-system**](https://github.com/snakyv/order-system) | Java-based order system project. | Java |
-
----
-
-## Project Areas
-
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Backend</h3>
-      <p>Application logic, REST APIs, database interaction, user accounts and server-side features.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Automation</h3>
-      <p>Scripts, data processing tools, scraping utilities and repetitive task automation.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Applications</h3>
-      <p>Desktop, web and educational projects with practical functionality and structured code.</p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Population Service](https://github.com/snakyv/population-service)
+
+Asynchronous Python 3.12 service for collecting country population data from multiple sources, storing non-aggregated records in PostgreSQL and calculating regional statistics directly in SQL.
+
+**Engineering highlights**
+
+- async SQLAlchemy 2.0 + asyncpg
+- aiohttp and BeautifulSoup parsing
+- Strategy and Repository patterns
+- PostgreSQL CTEs and window functions
+- Alembic migrations
+- Docker Compose
+- Ruff, mypy, pytest and GitHub Actions
+- atomic source snapshot replacement
+
+`Python` `PostgreSQL` `SQLAlchemy` `aiohttp` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### [CryptoDashBoard](https://github.com/snakyv/CryptoDashBoard)
+
+Python market-data application focused on resilient collection, backend APIs, monitoring and operational visibility.
+
+**Engineering highlights**
+
+- FastAPI service layer
+- scheduled CoinGecko ingestion
+- retries and failure handling
+- Prometheus metrics
+- Sentry error reporting
+- Slack alerts
+- Streamlit dashboard
+- CSV export and technical indicators
+
+`Python` `FastAPI` `Streamlit` `Prometheus` `Sentry`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [readquest-ai](https://github.com/snakyv/readquest-ai)
+
+AI-assisted reading and quiz platform with a Python backend, PostgreSQL persistence and a Flutter client.
+
+**Engineering highlights**
+
+- FastAPI REST backend
+- PostgreSQL + SQLAlchemy
+- Pydantic validation
+- OpenAI API integration
+- deterministic fallback behavior
+- pytest backend tests
+- Docker Compose environment
+- progress and analytics workflows
+
+`Python` `FastAPI` `PostgreSQL` `OpenAI API` `Flutter`
+
+</td>
+<td width="50%" valign="top">
+
+### [flask-shop-platform](https://github.com/snakyv/flask-shop-platform)
+
+Flask-based e-commerce application covering common backend workflows such as catalog management, shopping cart operations, orders and user accounts.
+
+**Engineering highlights**
+
+- Flask application structure
+- server-side business logic
+- user-facing workflows
+- data persistence
+- reusable backend components
+
+`Python` `Flask` `Web` `Backend`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## How I Build Software
+## Python Engineering Focus
 
-I focus on writing code that is practical, readable and maintainable.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-My development approach:
+### APIs & Architecture
 
-- keep project structure clear and logical;
-- separate business logic from interface code;
-- work carefully with databases and user data;
-- avoid unnecessary complexity;
-- debug and refactor existing code;
-- build features that solve real tasks;
-- improve code quality step by step.
+I prefer explicit service boundaries, clear data contracts, validation close to system boundaries and abstractions that solve real coupling problems rather than adding layers for their own sake.
+
+</td>
+<td width="33%" valign="top">
+
+### Data & Automation
+
+I work with relational data, scraping, browser automation and external APIs, with attention to normalization, idempotency, retries, fallbacks and reproducible processing.
+
+</td>
+<td width="33%" valign="top">
+
+### Quality & Operations
+
+I use automated tests, static analysis, Docker, migrations, structured failure handling and monitoring to make projects easier to run, review and maintain.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Statistics
+## Beyond Python
+
+Python is my primary language, but I also work with technologies outside the Python ecosystem when a project requires it.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakyv&amp;theme=github_dark" alt="GitHub profile details"/>
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snakyv&amp;theme=github_dark" alt="Repositories per language"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snakyv&amp;theme=github_dark" alt="Most used languages by commits"/>
-
-<br><br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snakyv&amp;theme=github_dark" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snakyv&amp;theme=github_dark&amp;utcOffset=3" alt="Productive time"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,js,ts,react,nodejs,dart,flutter,qt,mongodb,firebase&theme=dark&perline=13" alt="Additional technologies"/>
 
 </div>
+
+<br>
+
+**Additional experience:** C# / .NET, C++, Java, JavaScript, TypeScript, React, Node.js, Dart / Flutter, PySide6 / Qt, MongoDB and Firebase.
+
+These technologies are complementary to my Python specialization and help me work comfortably across client-server applications, integrations and multi-language codebases.
+
+---
+
+## Engineering Practices
+
+- API design and input validation
+- asynchronous jobs and background workflows
+- data normalization and database migrations
+- retry, timeout and fallback strategies
+- automated testing and static analysis
+- Dockerized development environments
+- structured logging and monitoring
+- benchmarking and quality evaluation
+- technical documentation and reproducible setup
 
 ---
 
@@ -171,48 +267,15 @@ My development approach:
 
 <div align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=snakyv&amp;theme=dark&amp;hide_border=true&amp;background=2B1D16&amp;stroke=5C4033&amp;ring=C08457&amp;fire=E0A96D&amp;currStreakLabel=C08457&amp;sideLabels=F5EDE3&amp;dates=D6C6B8" alt="GitHub streak"/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snakyv&theme=github_dark&title_color=C08457&text_color=F5EDE3&bg_color=2B1D16&border_color=5C4033&icon_color=E0A96D&chart_color=C08457&animation=rise"
+alt="GitHub profile summary"/>
 
-<br><br>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=snakyv&amp;bg_color=2B1D16&amp;color=F5EDE3&amp;line=C08457&amp;point=E0A96D&amp;area=true&amp;hide_border=true" alt="GitHub activity graph"/>
-
-<br><br>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/snakyv/snakyv/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snakyv/snakyv/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/snakyv/snakyv/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=snakyv&bg_color=2B1D16&color=F5EDE3&line=C08457&point=E0A96D&area=true&area_color=8B5E3C&hide_border=true&radius=8" alt="GitHub activity graph"/>
 
 </div>
-
----
-
-## GitHub Overview
-
-My public repositories cover several main areas:
-
-- Python backend and desktop applications;
-- Flask and Django web applications;
-- React and full-stack JavaScript projects;
-- automation and data processing utilities;
-- database-driven applications;
-- C++, C# and Java software engineering projects.
-
----
-
-## Currently Improving
-
-- Python backend development
-- Flask, Django and FastAPI application structure
-- SQL databases and data validation
-- React and full-stack application architecture
-- Automation and scraping tools
-- Testing, debugging and refactoring
-- Clean architecture for small and medium projects
 
 ---
 
@@ -220,26 +283,19 @@ My public repositories cover several main areas:
 
 <div align="center">
 
-For collaboration, project discussions or professional contact:
+Open to Python backend, automation and AI-related engineering opportunities.
 
-<br><br>
+<p>
+  <a href="https://www.linkedin.com/in/vitalii-zadorozhniy">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5E3C?style=for-the-badge&logo=linkedin&logoColor=F5EDE3" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:v03032006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-C08457?style=for-the-badge&logo=gmail&logoColor=2B1D16" alt="Email"/>
+  </a>
+</p>
 
-<a href="mailto:v03032006@gmail.com">
-  <img src="https://img.shields.io/badge/Contact%20Me-v03032006%40gmail.com-8B5E3C?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
+<sub>Python backend. Practical automation. Reliable software.</sub>
 
-<a href="https://github.com/snakyv">
-  <img src="https://img.shields.io/badge/GitHub-Profile-2B1D16?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Clean code. Practical backend. Reliable software.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C08457,100:2B1D16&amp;height=100&amp;section=footer" alt="Footer banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C08457,55:5C4033,100:2B1D16&height=110&section=footer" alt="Footer"/>
 
 </div>
